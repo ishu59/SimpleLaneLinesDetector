@@ -3,7 +3,7 @@
 ---
 
 **Approach**
-The main aim of the project is to detect road lane markings o straight roads. The steps involved in the process are: 
+The main aim of the project is to detect road lane markings on straight roads. The steps involved in the process are: 
  1. Smoothing: Smoothing is used to remove sharp noise from images so we can have stable gradients
  2. Edge detection: Gradient based methods are used to detect all the edges in image
  3. Lane Mask: Manually defined region with potential lines.
